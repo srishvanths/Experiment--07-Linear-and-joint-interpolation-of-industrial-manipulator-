@@ -27,26 +27,16 @@ robot’s workspace. This is done by specifying three points that lie along the 
 #### Manual lead through Programming: 
 When the manipulator wrist is moved by the programmer to teach, the movements consist of combination of smooth motion segments. These segments are sometimes approximately straight lines or curves or back and forth motions. These movements are referred as irregular smooth motions and an interpolation is involved to achieve them.
 
+![image](https://github.com/srishvanths/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/161055755/6c19ff15-681b-4a26-a86d-686b4dbf57ed)
 
-
-
-![Robot-interpolation-PTP-LIN-CIRC](https://user-images.githubusercontent.com/36288975/201615171-d0886aaa-8220-4b0c-8a1d-3d8a5c69c76a.png)
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
 
 
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
+![image](https://github.com/srishvanths/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/161055755/a7122aa3-3610-499a-9a05-b11db47f6c87)
 
 
 
@@ -57,17 +47,12 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
+![image](https://github.com/srishvanths/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/161055755/0ad19def-c3ef-44d3-b726-a4e5efa79404)
+
+![Screenshot 2024-04-26 224625](https://github.com/srishvanths/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/161055755/31efb00c-d1ad-4bee-8b24-a40ffa161032)
 
 
 
+### Results:
 
-
-
-
-
-
-
-
-
-
-### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
